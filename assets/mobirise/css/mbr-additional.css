@@ -1734,6 +1734,7 @@ body {
 }
 .cid-qzfjo5IA28 .mbr-text {
   color: #767676;
+  text-align: center;
 }
 .cid-qzfjo5IA28 .card {
   display: flex;
@@ -1845,6 +1846,10 @@ body {
   color: #ffffff;
 }
 .cid-qzfAFEqA02 H4 {
+  color: #ffffff;
+}
+.cid-qzfAFEqA02 .panel-text {
+  text-align: center;
   color: #ffffff;
 }
 .cid-qzfxpFrn7O {
